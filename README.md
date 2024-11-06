@@ -59,7 +59,7 @@ StakeAIA is an open-source project, and we welcome contributions from the commun
 ---
 
 ## 📄 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. 
 ---
 
 **Made with 💙 on the AIA Blockchain**
